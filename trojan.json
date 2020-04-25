@@ -2,7 +2,7 @@
     "run_type": "nat",
     "local_addr": "127.0.0.1",
     "local_port": 3333,
-    "remote_addr": "os1-5.sstr-api.xy",
+    "remote_addr": "45.142.165.195",
     "remote_port": 443,
     "password": [
         "J3Zb37JxeAnKJ4kF6g"
